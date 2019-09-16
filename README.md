@@ -2,8 +2,8 @@
  Telegram Bot that fetches a random Dog/Cat picture or a bible verse
 
 Requires: 
-Install Python 3 (https://www.python.org/downloads/release/python-374/)
-Install the python telegram module via CLI (pip install python-telegram-bot)
+Install Python 3 (https://www.python.org/downloads/release/python-374/)\n
+Install the python telegram module via CLI (pip install python-telegram-bot)\n
 
 How to use:
 Create a Bot on Telegram via @BotFather (https://t.me/BotFather)
