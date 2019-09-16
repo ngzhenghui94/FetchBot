@@ -74,8 +74,8 @@ def hello(update, context):
     context.bot.send_message(chat_id = chat_id, text = 'Hello! I was made by @danielninetyfour!',disable_notification = True)
 	
 def start(update, context):
-	chat_id = update.message.chat_id
-	context.bot.send_message(chat_id = chat_id, text = startMsg, disable_notification = True, disable_web_page_preview = True)
+    chat_id = update.message.chat_id
+    context.bot.send_message(chat_id = chat_id, text = startMsg, disable_notification = True, disable_web_page_preview = True)
 
 def help(update, context):
     chat_id = update.message.chat_id
